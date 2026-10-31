@@ -422,7 +422,7 @@ export default function App() {
           )}
 
           <Text style={styles.footer}>
-            Thank you for trusting our Support Team.
+            Thank you for trusting our Support Team!
           </Text>
         </View>
       </ScrollView>
