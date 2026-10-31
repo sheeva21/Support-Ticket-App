@@ -258,8 +258,7 @@ export default function App() {
         <View style={styles.header}>
           <Text style={styles.headerIcon}>🎧</Text>
           <Text style={styles.headerTitle}>
-            Support Ticket
-          </Text>
+            Support Ticket App - Team Project</Text>
           <Text style={styles.headerSubtitle}>
             We're here to help you!
           </Text>
